@@ -1,0 +1,1 @@
+88d90659998c1ee5a869994fd0652e41cfc8a9823451cacbe5a9cb1ec03200ce  ./target/wasm32-unknown-unknown/release/nfthop.wasm
